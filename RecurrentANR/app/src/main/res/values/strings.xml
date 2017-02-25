@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecurrentANR</string>
+    <string name="serviceanr">ServiceANR</string>
+    <string name="broadcastreceiveranr">BroadcastReceiverANR</string>
+    <string name="mainthreadanr">MainThreadANR</string>
+    <string name="anr">ANR</string>
+    <string name="notanr">notANR</string>
+    <string name="mainthreadnotanr">MainThreadNotANR</string>
+</resources>

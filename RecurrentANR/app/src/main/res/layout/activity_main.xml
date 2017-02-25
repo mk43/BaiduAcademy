@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.fitzeng.recurrentanr.MainActivity">
+
+
+    <TextView
+        android:text="@string/anr"
+        android:textSize="30sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <!--主线程复现ANR-->
+    <Button
+        android:id="@+id/btnMainThreadANR"
+        android:text="@string/mainthreadanr"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <!--BroadcastReceiver复现ANR-->
+    <Button
+        android:id="@+id/btnBroadcastReceiverANR"
+        android:text="@string/broadcastreceiveranr"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <!--Service复现ANR-->
+    <Button
+        android:id="@+id/btnServiceANR"
+        android:text="@string/serviceanr"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="@string/notanr"
+        android:textSize="30sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btnMainThreadNotANR"
+        android:text="@string/mainthreadnotanr"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
