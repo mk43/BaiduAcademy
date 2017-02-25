@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="81054943633274"
+    token="-128770462444457148"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="E:\Android\BaiduAcademy\UILayout\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="79707874214471"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\Android\BaiduAcademy\UILayout\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="80793961705916"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\Android\BaiduAcademy\UILayout\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="81054943633274"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\Android\BaiduAcademy\UILayout\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
