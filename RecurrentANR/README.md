@@ -1,15 +1,34 @@
+<!-- MarkdownTOC -->
+
+- [BaiduAcademy](#baiduacademy)
+  - [NO.1 复现ANR](#no1-复现anr)
+    - [任务描述](#任务描述)
+    - [1.什么是ANR?](#1什么是anr)
+    - [2.ANR的三种类型](#2anr的三种类型)
+    - [3.复现ANR](#3复现anr)
+      - [I 主线程复现ANR](#i-主线程复现anr)
+      - [II BroadcastReceiver复现ANR](#ii-broadcastreceiver复现anr)
+      - [III Service复现ANR](#iii-service复现anr)
+    - [4.避免ANR](#4避免anr)
+
+<!-- /MarkdownTOC -->
+
+
 # [BaiduAcademy](https://github.com/mk43/BaiduAcademy)
 
 ## [NO.1 复现ANR](http://ife.baidu.com/course/detail/id/70)
 
 ### 任务描述
-#### 写出不少于3种常见ANR错误的Android代码
+
+写出不少于3种常见ANR错误的Android代码
+
 ---
 - 主线程复现ANR
 - BroadcastReceiver复现ANR
 - Service复现ANR
 
 ### 1.什么是ANR?
+
 ---
 ANR(Application Not Responding),应用程序无响应. 参考[ANR完全解析](https://blog.saymagic.tech/2014/03/25/anr-analyze.html)
 
