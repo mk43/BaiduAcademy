@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmojiKeyboard</string>
+    <string name="simple_emoji_keyboard_demo">Simple Emoji Keyboard Demo</string>
+    <string name="typeing_something_here">typeing something here. ^_^</string>
+    <string name="an_icon_button">an icon button</string>
+    <string name="delete">delete</string>
+</resources>

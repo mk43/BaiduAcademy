@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_611018407b095991e7dd2553d78594a003719424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_f946d0acf4dba6685597ff16991618c78df5d208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_d07d9e8026a8dda2763c87e1a1ba89cfa7b2e88b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_2c976ea47fb883bf351872d6b77dea0592d9ed9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_69c85e5d22cad7bad27927c661b2151545be5136\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cc046de97da393717d69fc70efd407b452a3e2f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ad0ebf194f721edf1bbe31fdce5dff987b8eac23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_88e5c68efaed51c5ee4095d2bf8ddf0034c026da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69dde5afe0ba54ccb13ce520eb08c3e4f0950127">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_334237958e9eb3ee03713a458313b53e2bc10370\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7ae4d3f419527748d63435dbf27455d396609ee">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_34d27f26aaa903024145ff02f8df03bade573bcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c2078f5def8e71ab47aab8d3edc1508d992eba5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a29a1954129e34e44d683b9b95967fa095dad2be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_900ccbf60373f0dc29ea42e607c994ede5752338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d9077469546d69f6172a0fc14e8533717c49234b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c2f009da1f9f6d8c384c4f9330f10ffc297983cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Android\BaiduAcademy\EmojiKeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_220aca59bdc6ff7941f174e9c6799d18120dd9dd\classes.dex" />
+    </item>
+
+</items>

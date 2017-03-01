@@ -1,0 +1,7 @@
+#Wed Mar 01 12:13:40 CST 2017
+base.0=E\:\\Android\\BaiduAcademy\\EmojiKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_34d27f26aaa903024145ff02f8df03bade573bcd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android\\BaiduAcademy\\EmojiKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_334237958e9eb3ee03713a458313b53e2bc10370\\classes.dex
+base.1=E\:\\Android\\BaiduAcademy\\EmojiKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_334237958e9eb3ee03713a458313b53e2bc10370
+file.0=E\:\\Android\\BaiduAcademy\\EmojiKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_34d27f26aaa903024145ff02f8df03bade573bcd\\classes.dex
