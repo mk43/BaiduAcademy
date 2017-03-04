@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SlideShow</string>
+    <string name="start_play">Start Play</string>
+    <string name="image">Image</string>
+</resources>
