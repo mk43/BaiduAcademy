@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Accelerator</string>
+    <string name="number">Number :</string>
+    <string name="add_0_01">+0.01</string>
+    <string name="reduce_0_01">-0.01</string>
+    <string name="Number_100_00">100.00</string>
+</resources>
