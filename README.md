@@ -6,3 +6,4 @@
 ## mission 4：[实现一个表情键盘控件](https://github.com/mk43/BaiduAcademy/tree/master/EmojiKeyboard)
 ## mission 5：[实现一个自动无线循环轮播图](https://github.com/mk43/BaiduAcademy/tree/master/SlideShow)
 ## mission 6：[加速器](https://github.com/mk43/BaiduAcademy/tree/master/Accelerator)
+## mission 7：[自定义滑动删除列表](https://github.com/mk43/BaiduAcademy/tree/master/SlideDeleteList)
