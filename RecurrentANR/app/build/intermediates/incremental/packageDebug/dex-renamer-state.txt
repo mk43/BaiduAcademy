@@ -1,7 +1,0 @@
-#Sat Feb 25 12:58:34 CST 2017
-base.0=E\:\\Android\\BaiduAcademy\\RecurrentANR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_69f60a84a649fbb14a7b205531a2988e9ea51b1a
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=E\:\\Android\\BaiduAcademy\\RecurrentANR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_14229a03eac6cdd272ea6ba204fa1f0cbf791ed2\\classes.dex
-base.1=E\:\\Android\\BaiduAcademy\\RecurrentANR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_14229a03eac6cdd272ea6ba204fa1f0cbf791ed2
-file.0=E\:\\Android\\BaiduAcademy\\RecurrentANR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_69f60a84a649fbb14a7b205531a2988e9ea51b1a\\classes.dex

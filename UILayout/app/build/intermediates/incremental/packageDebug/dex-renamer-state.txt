@@ -1,7 +1,0 @@
-#Sat Feb 25 18:21:37 CST 2017
-base.0=E\:\\Android\\BaiduAcademy\\UILayout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c9bc8adc2aa6bf827a074594a62a5d5936c417dd
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\Android\\BaiduAcademy\\UILayout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_da4fe7902d05202e0beabf9648529c5c8cc5aa29\\classes.dex
-base.1=E\:\\Android\\BaiduAcademy\\UILayout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_da4fe7902d05202e0beabf9648529c5c8cc5aa29
-file.0=E\:\\Android\\BaiduAcademy\\UILayout\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c9bc8adc2aa6bf827a074594a62a5d5936c417dd\\classes.dex
