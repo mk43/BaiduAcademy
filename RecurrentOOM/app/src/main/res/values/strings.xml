@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecurrentOOM</string>
+    <string name="static_context">Static Context</string>
+    <string name="static_view">Static View</string>
+    <string name="singleton">Singleton</string>
+    <string name="animation">Animation</string>
+    <string name="oom">OOM</string>
+    <string name="ok">OK</string>
+    <string name="animation_test">Animation Test</string>
+</resources>
