@@ -7,3 +7,4 @@
 ## mission 5：[实现一个自动无线循环轮播图](https://github.com/mk43/BaiduAcademy/tree/master/SlideShow)
 ## mission 6：[加速器](https://github.com/mk43/BaiduAcademy/tree/master/Accelerator)
 ## mission 7：[自定义滑动删除列表](https://github.com/mk43/BaiduAcademy/tree/master/SlideDeleteList)
+## mission 8：[复现OOM](https://github.com/mk43/BaiduAcademy/tree/master/RecurrentOOM)
